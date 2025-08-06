@@ -1,0 +1,11 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "node",
+    "TEXT_API_KEY": "<your-text-analytics-key>",
+    "TEXT_API_ENDPOINT": "<your-text-analytics-endpoint>",
+    "COSMOS_DB_URI": "<your-cosmos-db-uri>",
+    "COSMOS_DB_KEY": "<your-cosmos-db-key>"
+  }
+}
